@@ -25,3 +25,8 @@ Write the truth table for the equations below
 |![image](https://user-images.githubusercontent.com/89135778/199667197-78f7e154-3374-43b8-b5ce-1f24674089d4.png)|![image](https://user-images.githubusercontent.com/89135778/199667249-7c155b28-b4d5-4ed5-99b0-d240393cc8c4.png)|
 |![image](https://user-images.githubusercontent.com/89135778/199667309-9e13f2b5-3e30-418d-a25c-cec2051c018a.png)|![image](https://user-images.githubusercontent.com/89135778/199667344-edc59731-1612-4a7b-9118-34b15c73cda2.png)|
 
+| Original Number | Convert to                                                                                                                                        |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|  256 (Decimal)  |![image](https://user-images.githubusercontent.com/89135778/199698248-211b3d46-b2d8-40a9-9cb6-d0ef4e92ad35.png) |
+|   433 (Base 5)  |![image](https://user-images.githubusercontent.com/89135778/199698312-a0e4e76e-d145-4670-8ed4-733757d49f6b.png) |
+|  FA32 (Base 16) |![image](https://user-images.githubusercontent.com/89135778/199698393-66affb80-0df1-4f1f-97be-8adeafc80714.png) |
